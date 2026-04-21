@@ -18,12 +18,7 @@ This project is an ETL (Extract, Transform, Load) pipeline built using Apache Ai
 
 1. Clone the repository and enter the project folder:
 
-   git clone <repository-url>  
-   cd <project-folder>  
-
-   (Optional) Open in VS Code:
-
-   code .
+   git clone https://github.com/MessyaCarment05/Book_ETL_Project.git  
 
 ---
 
