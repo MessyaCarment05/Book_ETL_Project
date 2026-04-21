@@ -96,7 +96,6 @@ project-root/
 │   ├── airflow-webserver.pid          → runtime process file (ignored in git)  
 │   ├── webserver_config.py            → local webserver config (ignored in git)  
 │   ├── standalone_admin_password.txt  → auto-generated login password (ignored in git)  
-│
 ├── extract_and_cleaning_data.py       → scratch script for testing API / logic  
 ├── docker-compose.yml                 → Docker services configuration  
 ├── .env                               → local environment variables (NOT pushed)  
