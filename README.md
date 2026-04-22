@@ -26,7 +26,7 @@ This project is an ETL (Extract, Transform, Load) pipeline built using Apache Ai
 
    Copy `.env.example` to `.env`, then edit:
 
-   POSTGRES_PASSWORD=your_postgres_password  
+   POSTGRES_PASSWORD=your_db_password  
 
 ---
 
